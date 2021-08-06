@@ -1,7 +1,7 @@
 # Site
-name: "Mediumish"
-title: "Mediumish"
-description: "Jekyll template, Medium styled, free for bloggers."
+name: "Krish's Cooking Blog"
+title: "Krish's Cooking Blog"
+description: "Cookbook by a programmer but for a household"
 logo: 'assets/images/krish.jpeg'
 favicon: 'assets/images/krish.jpeg'
 baseurl: /cooking-blog

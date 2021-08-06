@@ -1,3 +1,7 @@
+### About
+
+Website to combine my passions of cooking and writing. This is a virtual cookbook where I will put recipes that I like and recipes that are new to me. I also want to recreate dishes from social media and rate them on this site.
+
 ### Contribute
 
 1. [Fork the repo](https://github.com/krish-shahh/cooking-blog).

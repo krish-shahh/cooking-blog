@@ -10,11 +10,11 @@ featured: true
 ---
 ## Ingredients:
 
-1 cup (112 g) blanched almond flour (not almond meal)
-3 tablespoons coconut sugar (see notes for keto, & other, options)
-1/2 teaspoon baking powder
-Optional: 1/8 teaspoon fine sea salt
-2 tablespoons water
+* 1 cup (112 g) blanched almond flour (not almond meal)
+* 3 tablespoons coconut sugar (see notes for keto, & other, options)
+* 1/2 teaspoon baking powder
+* 2 tablespoons water
+* Optional: 1/8 teaspoon fine sea salt
 
 ## Instructions:
 

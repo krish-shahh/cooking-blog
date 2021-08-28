@@ -4,7 +4,6 @@ title:  "Tiktok Feta Pasta"
 author: krish
 categories: [ Dinner, Lunch, Pasta ]
 tags: [pasta, feta]
-image: assets/images/almond-flour-cookies.png
 description: "Trying to recreate the infamous feta pasta recipe from Tiktok."
 featured: false
 ---
